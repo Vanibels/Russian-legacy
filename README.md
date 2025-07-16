@@ -1,4 +1,4 @@
-# Legal Documents for Bot Nexus
+# Legal Documents for Bot Russian
 
 This repository contains the legal documents related to the **Russian** Bot:
 
