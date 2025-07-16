@@ -1,6 +1,6 @@
 ## **Privacy Policy – Russian Discord Bot**
 
-**Last Updated:** [04/06/2025]
+**Last Updated:** [16/07/2025]
 
 This Privacy Policy explains how **Russian**, a Discord bot developed by **Vanibels** for the **Blackphenix_off** discord server, collects, uses, and stores data.
 

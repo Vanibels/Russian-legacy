@@ -1,6 +1,6 @@
 ## **Terms of Service – Russian Discord Bot**
 
-**Last Updated:** [04/06/2025]
+**Last Updated:** [16/07/2025]
 
 By using the **Russian** Discord bot ("the Bot"), you agree to these **Terms of Service** ("Terms"). If you do not agree with these Terms, please do not use the Bot.
 
